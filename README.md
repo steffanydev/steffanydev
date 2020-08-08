@@ -1,8 +1,6 @@
 ### Olá mundo, eu sou Stéffany ou [Sté](https://www.youtube.com/channel/UCYJVdIWVaYj-S5K1rPg3JIw?view_as=subscriber) 👩🏻‍🚀
 
 ## Sou estudante, desenvolvedora e produtora de conteúdos!
-- 🚀 Tecnologias: HTML, CSS, JavaScript
-- ⚙ Ferramentas: Figma
 - 👩🏻‍🚀 Projetos: Código da Sté, StéCode
 
 
