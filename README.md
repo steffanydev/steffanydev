@@ -3,9 +3,6 @@
 ## Sou estudante, desenvolvedora e produtora de conteúdos!
 - 👩🏻‍🚀 Projetos: Código da Sté, StéCode
 
-
-<br />
-
 ---
 
 ### Redes Sociais
