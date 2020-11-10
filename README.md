@@ -1,7 +1,7 @@
 ### Olá mundo, eu sou Stéffany ou [Sté](https://www.youtube.com/channel/UCYJVdIWVaYj-S5K1rPg3JIw?view_as=subscriber) 👩🏻‍🚀
 
-## Sou estudante, desenvolvedora e produtora de conteúdos!
-- 👩🏻‍🚀 Projetos: Código da Sté, StéCode
+## Front-End Developer & UI Designer!
+- 👩🏻‍🚀 Projetos: StéCode
 
 ---
 
@@ -27,19 +27,12 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 
-[website]: https://codigoste.com.br/
+[website]: https://stecode.com.br/
 [twitter]: https://twitter.com/codigodaste
-[youtube]: https://www.youtube.com/channel/UCYJVdIWVaYj-S5K1rPg3JIw?view_as=subscriber
-[instagram]: https://www.instagram.com/codigodaste/
+[youtube]: https://www.youtube.com/channel/UCTfOU_hU28wxFvnc71cO1qg?view_as=subscriber
+[instagram]: https://www.instagram.com/steffany.dev/
 [linkedin]: https://www.linkedin.com/in/steffanydev/
-[webdevplaylist]: ttps://www.youtube.com/channel/UCYJVdIWVaYj-S5K1rPg3JIw?view_as=subscriber
 
 
 <br />
 <br />
-
----
-
-### 📺 YouTube Vídeos
-
-- [SEJA BEM-VINDO(A)](https://www.youtube.com/watch?v=EmHHqC-E0OE)
