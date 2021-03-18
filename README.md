@@ -30,7 +30,7 @@
 [website]: https://stecode.com.br/
 [twitter]: https://twitter.com/steffanydev
 [youtube]: https://www.youtube.com/channel/UCTfOU_hU28wxFvnc71cO1qg?view_as=subscriber
-[instagram]: https://www.instagram.com/steffany.dev/
+[instagram]: https://www.instagram.com/steffany.carolinee/
 [linkedin]: https://www.linkedin.com/in/steffanydev/
 
 
